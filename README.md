@@ -60,4 +60,4 @@ The script includes print statements for logging the process. If you encounter a
 
 ## License
 
-Specify your license or state that the project is unlicensed.
+MIT
